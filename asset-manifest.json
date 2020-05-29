@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Klir-twitter-host/static/css/main.e39df6e5.chunk.css",
+    "main.js": "/Klir-twitter-host/static/js/main.127ae900.chunk.js",
+    "main.js.map": "/Klir-twitter-host/static/js/main.127ae900.chunk.js.map",
+    "runtime-main.js": "/Klir-twitter-host/static/js/runtime-main.cc6c409a.js",
+    "runtime-main.js.map": "/Klir-twitter-host/static/js/runtime-main.cc6c409a.js.map",
+    "static/css/2.af3c1da9.chunk.css": "/Klir-twitter-host/static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f64f6163.chunk.js": "/Klir-twitter-host/static/js/2.f64f6163.chunk.js",
+    "static/js/2.f64f6163.chunk.js.map": "/Klir-twitter-host/static/js/2.f64f6163.chunk.js.map",
+    "index.html": "/Klir-twitter-host/index.html",
+    "precache-manifest.de74c846eddf7731c8bc55bf33ee5fe7.js": "/Klir-twitter-host/precache-manifest.de74c846eddf7731c8bc55bf33ee5fe7.js",
+    "service-worker.js": "/Klir-twitter-host/service-worker.js",
+    "static/css/2.af3c1da9.chunk.css.map": "/Klir-twitter-host/static/css/2.af3c1da9.chunk.css.map",
+    "static/css/main.e39df6e5.chunk.css.map": "/Klir-twitter-host/static/css/main.e39df6e5.chunk.css.map",
+    "static/js/2.f64f6163.chunk.js.LICENSE.txt": "/Klir-twitter-host/static/js/2.f64f6163.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/Klir-twitter-host/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cc6c409a.js",
+    "static/css/2.af3c1da9.chunk.css",
+    "static/js/2.f64f6163.chunk.js",
+    "static/css/main.e39df6e5.chunk.css",
+    "static/js/main.127ae900.chunk.js"
+  ]
+}
